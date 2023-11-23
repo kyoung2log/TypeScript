@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", // js 버전 설정
+    "module": "ESNext",
+    "outDir": "dist",
+    "strict": true,
+    "moduleDetection": "force"
+  },
+  "ts-node": {
+    "esm ": true
+  },
+  "include": ["src"]
+}
