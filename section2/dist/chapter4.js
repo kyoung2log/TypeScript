@@ -14,4 +14,14 @@ let user2 = {
     bio: '하이',
     location: '머전팡',
 };
+let countryCodes = {
+    Korea: 'ko',
+    UnitedState: 'us',
+    UnitedKingdom: 'uk',
+};
+let countryNumberCodes = {
+    Korea: 410,
+    UnitedState: 840,
+    UnitedKingdom: 826,
+};
 export {};
