@@ -1,0 +1,15 @@
+{
+  "name": "section3",
+  "version": "1.0.0",
+  "description": "이번 section3에서는 아래의 물음을 중점으로 타입스크립트의 구체적인 원리와 동작 방식을 학습한다.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.8.0"
+  }
+}
