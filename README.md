@@ -1,4 +1,10 @@
-## TS를 공부하는 저장소입니다.
+## README
+
+타입스크립트의 전반적인 내용을 학습하고 정리한 레포지토리입니다.
+
+
+<br />
+
 
 ### 🙇‍♀️ REF
 - [공식문서](https://www.typescriptlang.org/ko/docs/handbook/2/basic-types.html)
